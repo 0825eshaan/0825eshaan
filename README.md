@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eshaan Revankar
 
-I'm a highschool aspiring developer and engineer exploring the technology, AI, and innovation.
+I'm a highschooler and aspiring developer/engineer exploring the technology, AI, and innovation.
 
 - 🔭 Currently working on: **VividSense**, a device to help the visually impaired navigate their surroundings.
 - 🧠 Interested in: Computer Science, Robotics, AI, and Human-Centered Solutions.
