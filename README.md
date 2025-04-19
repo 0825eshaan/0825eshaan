@@ -8,7 +8,7 @@ I'm a highschooler and aspiring developer/engineer exploring the technology, AI,
 
 ## 🛠️Some of My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,p5js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,p5js,py,react,sql)](https://skillicons.dev)
 
 
 
