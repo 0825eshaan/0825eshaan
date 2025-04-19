@@ -2,7 +2,7 @@
 
 I'm a highschooler and aspiring developer/engineer exploring the technology, AI, and innovation.
 
-- 🔭 Currently working on: **VividSense**, a device to help the visually impaired navigate their surroundings.
+- 🔭 Currently working on: **Dexarm**, a low-cost prosthetic with high range of motion.
 - 🧠 Interested in: Computer Science, Robotics, AI, and Human-Centered Solutions.
 - 🤝 Open to: Collaborations, internships, and research opportunities in engineering and software.
 
