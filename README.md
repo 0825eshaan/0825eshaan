@@ -10,7 +10,7 @@ I'm a highschooler and aspiring developer/engineer exploring the technology, AI,
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,p5js,py,react)](https://skillicons.dev)
 
-Find more about me on my website: [link text](https://0825eshaan.github.io/)
+Find more about me on my [website](https://0825eshaan.github.io/)
 
 
 
