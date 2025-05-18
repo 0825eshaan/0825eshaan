@@ -6,7 +6,7 @@ I'm a highschooler and aspiring developer/engineer exploring the technology, AI,
 - 🧠 Interested in: Computer Science, Robotics, AI, and Human-Centered Solutions.
 - 🤝 Open to: Collaborations, internships, and research opportunities in engineering and software.
 
-## 🛠️Some of My Tools
+## 🛠️My Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,cpp,java,p5js,py,react)](https://skillicons.dev)
 
