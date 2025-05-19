@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eshaan Revankar
+# Hi, I'm Eshaan Revankar
 
 I'm a highschooler and aspiring developer/engineer exploring the technology, AI, and innovation.
 
