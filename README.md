@@ -1,6 +1,6 @@
 # Hi, I'm Eshaan Revankar
 
-I'm a highschooler and aspiring developer/engineer exploring technology, AI, and innovation.
+I'm a highschooler and aspiring engineer exploring technology, AI, and innovation.
 
 - 🔭 Currently working on: **Dexarm**, a low-cost prosthetic arm with high range of motion.
 - 🧠 Interested in: Engineering, Programming, AI, and Entrepreneurship.
