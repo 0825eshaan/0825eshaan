@@ -3,7 +3,7 @@
 I'm a highschooler and aspiring engineer exploring technology, AI, and innovation.
 
 - Currently working on: **Dexarm**, a low-cost prosthetic arm with high range of motion.
-- Interested in: Engineering, AI, and Entrepreneurship.
+- Interested in: Engineering, Artificial Intelligence, and Entrepreneurship.
 - Open to: Collaborations, internships, and research opportunities.
 
 ## My Tools
